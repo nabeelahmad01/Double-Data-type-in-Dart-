@@ -1,0 +1,10 @@
+void main(){
+  double cgpa=7.86;
+  print('cgpa is $cgpa');
+  print(cgpa.isFinite);
+  print(cgpa.isInfinite);
+  print(cgpa.floor());
+  print(cgpa.ceil());
+  print(cgpa.round());
+  print(cgpa.toInt());
+}
